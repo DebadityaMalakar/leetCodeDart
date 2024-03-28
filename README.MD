@@ -2,4 +2,6 @@
 
 - [X] twoSum
 - [x] isPalindrome
-- [ ] romanToInt
+- [X] romanToInt
+- [ ] longestCommonPrefix
+- [X] isValid
