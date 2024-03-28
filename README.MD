@@ -5,3 +5,5 @@
 - [X] romanToInt
 - [ ] longestCommonPrefix
 - [X] isValid
+- [ ] mergeTwoLists
+- [X] removeDuplicates
