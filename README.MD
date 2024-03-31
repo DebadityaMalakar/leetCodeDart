@@ -7,3 +7,6 @@
 - [X] isValid
 - [ ] mergeTwoLists
 - [X] removeDuplicates
+- [X] removeElement
+- [X] findTheIndexOfTheFirstOccurenceInAString
+- [X] searchInsert
