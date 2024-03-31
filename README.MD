@@ -10,3 +10,4 @@
 - [X] removeElement
 - [X] findTheIndexOfTheFirstOccurenceInAString
 - [X] searchInsert
+- [X] lengthOfLastWord
