@@ -1,4 +1,4 @@
-# Solved leetcode problems in Golsbg(formelry used Dart)
+# Solved leetcode problems in Golsbg(formerly used Dart)
 
 ## Notice: I shifted from Windows to Fedora and am Using golang since couldn't find a way of
 # installing dart on Fedora
