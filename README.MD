@@ -1,13 +1,17 @@
 ## Solved leetcode problems in Dart
 
-- [X] twoSum
-- [x] isPalindrome
-- [X] romanToInt
+# Notice: I shifted from Windows to Fedora and am Using golang since couldn't find a way of
+# installing dart on Fedora
+
+- [X] twoSum (dart)
+- [x] isPalindrome (dart)
+- [X] romanToInt (dart)
 - [ ] longestCommonPrefix
-- [X] isValid
+- [X] isValid (dart)
 - [ ] mergeTwoLists
-- [X] removeDuplicates
-- [X] removeElement
-- [X] findTheIndexOfTheFirstOccurenceInAString
-- [X] searchInsert
-- [X] lengthOfLastWord
+- [X] removeDuplicates (dart)
+- [X] removeElement (dart)
+- [X] findTheIndexOfTheFirstOccurenceInAString (dart)
+- [X] searchInsert (dart)
+- [X] lengthOfLastWord (dart)
+- [X] plusOne(Golang)
