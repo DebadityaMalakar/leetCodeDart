@@ -1,6 +1,6 @@
-## Solved leetcode problems in Dart
+# Solved leetcode problems in Dart
 
-# Notice: I shifted from Windows to Fedora and am Using golang since couldn't find a way of
+## Notice: I shifted from Windows to Fedora and am Using golang since couldn't find a way of
 # installing dart on Fedora
 
 - [X] twoSum (dart)
